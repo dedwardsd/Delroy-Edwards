@@ -5,7 +5,7 @@ h1
 }
 h2
 {
-  color: green;
+  color: black;
   text-align: center;
 }
 p
@@ -21,3 +21,7 @@ p
   margin: auto;
   padding: 300;
 }
+div
+{
+  background-color: #03fce8;
+  }
