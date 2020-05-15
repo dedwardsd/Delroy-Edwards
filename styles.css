@@ -13,7 +13,9 @@ p
   color: pink;
   text-align: center;
 }
-ul
-{
-  text-align: right;
+
+div{
+  background: color: teal;
+  width: 100px;
+  height: 1000;
 }
