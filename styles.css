@@ -19,7 +19,7 @@ p
   color: red;
   text-align: left;
   margin: auto;
-  padding: 200;
+  padding: 100;
 }
 div
 {
@@ -28,4 +28,5 @@ div
   font-size:  28px;
   font-weight:bold;
   border-radius: solid; color: blue;
+  border-collapse: collapse;
   }
