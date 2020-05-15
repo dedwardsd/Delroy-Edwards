@@ -18,5 +18,6 @@ div{
   background: color: teal;
   width: 100px;
   height: 1000;
-  margin: auto;
+  margin: 300px;
+  padding: 30px;
 }
