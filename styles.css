@@ -11,6 +11,8 @@ h2
 h3{
   color: red;
   text-align: right;
+  margin: auto;
+  padding: auto;
 }
 p
 {
