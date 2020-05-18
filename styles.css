@@ -14,16 +14,11 @@ h3{
   margin: auto;
   padding: auto;
 }
-p
-{
-  color: pink;
-  text-align: center;
-}
 
 p
 {
   color: orange;
-  text-align: left;
+  text-align: right;
   margin: auto;
   padding: auto;
 }
@@ -35,11 +30,4 @@ div
   font-weight:bold;
   border-radius: solid; color: blue;
   border-collapse: collapse;
-  }
-
-input [type=text]{
-  background-color: green;
-  }
-  input [type=number]{
-    background-color: orange;
   }
