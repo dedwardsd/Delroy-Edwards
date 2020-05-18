@@ -36,3 +36,10 @@ div
   border-radius: solid; color: blue;
   border-collapse: collapse;
   }
+
+input [type=text]{
+  background-color: green;
+  }
+  input [type=number]{
+    background-color: orange;
+  }
