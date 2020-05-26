@@ -24,7 +24,7 @@ p
 }
 div
 {
-  background: url('room.jpg');
+  background-image: url('room.jpg');
   background-repeat: no-repeat;
   background-size: auto;
 
