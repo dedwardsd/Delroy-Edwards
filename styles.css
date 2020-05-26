@@ -24,7 +24,7 @@ p
 }
 div
 {
-  background-image: url('flyer.pdf');
+  <image src="flyer.pdf">
   background-color: #03fce8;
   font-family: serif, arial;
   font-size:  28px;
