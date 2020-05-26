@@ -1,16 +1,16 @@
 h1
 {
   color: gold;
-  text-align: center;
+  text-align: left;
 }
 h2
 {
-  color: black;
-  text-align: center;
+  color: gold;
+  text-align: left;
 }
 h3{
-  color: yellow;
-  text-align: center;
+  color: blue;
+  text-align: left;
   margin: auto;
   padding: auto;
 }
@@ -25,15 +25,14 @@ p
 div
 {
 
-  background-image: url('mypic.jpg');
+  background-image: url('flyer.pdf');
+  background-size: 45%;
   background-repeat: no-repeat;
-  background-size: 100%;
-  background-color: color=pink;
-  background-blend-mode: color-burn;
+  background-position: right;
+  background-color: #33FFFF;
   font-family: serif, arial;
   font-size:  28px;
   font-weight: bold;
   border-radius: solid; color: blue;
-  border-collapse: collapse;
 
   }
