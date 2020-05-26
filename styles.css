@@ -27,10 +27,5 @@ div
   background: url('room.jpg');
   background-repeat: no-repeat;
   background-size: auto;
-  background-color: color=pink;
-  font-family: serif, arial;
-  font-size:  28px;
-  font-weight:bold;
-  border-radius: solid; color: blue;
-  border-collapse: collapse;
+
   }
