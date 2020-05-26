@@ -24,7 +24,7 @@ p
 }
 div
 {
-  background-image: image('mypic.jpg');
+  background-image: url('mypic.jpg');
   font-family: serif, arial;
   font-size:  28px;
   font-weight:bold;
