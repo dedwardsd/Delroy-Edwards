@@ -25,6 +25,8 @@ p
 div
 {
   background-image: url('room.jpg');
+  background-repeat: no-repeat;
+  background-size: auto;
   background-color: color=pink;
   font-family: serif, arial;
   font-size:  28px;
