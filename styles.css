@@ -1,6 +1,6 @@
 h1
 {
-  color: blue;
+  color: gold;
   text-align: center;
 }
 h2
@@ -9,7 +9,7 @@ h2
   text-align: center;
 }
 h3{
-  color: red;
+  color: yellow;
   text-align: center;
   margin: auto;
   padding: auto;
@@ -17,7 +17,7 @@ h3{
 
 p
 {
-  color: orange;
+  color: fuchsia;
   text-align: align
   margin: auto;
   padding: auto;
@@ -25,10 +25,11 @@ p
 div
 {
 
-  background-image: url('floor.jpg');
+  background-image: url('mypic.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
   background-color: color=pink;
+  background-blend-mode: color-burn;
   font-family: serif, arial;
   font-size:  28px;
   font-weight: bold;
