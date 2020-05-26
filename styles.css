@@ -25,6 +25,7 @@ p
 div
 {
   background-image: url('mypic.jpg');
+  background-color: color=pink;
   font-family: serif, arial;
   font-size:  28px;
   font-weight:bold;
