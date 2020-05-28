@@ -22,17 +22,37 @@ p
   margin: auto;
   padding: auto;
 }
-div
+
+<div class="div1">
+</div>
+<div class="div2">
+</div>
+
+div1
 {
 
   background-image: url('flyer.pdf');
-  background-size: 45%;
-  background-repeat: no-repeat;
+  background-size: contain;
   background-position: right;
+  background-repeat: no-repeat;
   background-color: #33FFFF;
   font-family: serif, arial;
   font-size:  28px;
   font-weight: bold;
   border-radius: solid; color: blue;
+
+  }
+
+  div
+  {
+    background-image: url('diningroom.jpg');
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: #33FFFF;
+    font-family: serif, arial;
+    font-size:  28px;
+    font-weight: bold;
+    border-radius: solid; color: blue;
 
   }
